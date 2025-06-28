@@ -48,14 +48,7 @@ export function Header({
           >
             <Settings className="h-5 w-5" />
           </Button>
-          <a 
-            href="https://github.com/liujuntao123/smart-mermaid"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:opacity-80"
-          >
-            <Github className="h-5 w-5" />
-          </a>
+         
           <ThemeToggle />
         </div>
       </div>

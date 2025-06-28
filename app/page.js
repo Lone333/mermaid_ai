@@ -520,7 +520,7 @@ export default function Home() {
       
       <footer className="h-12 border-t flex items-center justify-center flex-shrink-0">
         <div className="text-center text-sm text-muted-foreground">
-          AI 驱动的文本转 Mermaid 图表 Web 应用 &copy; {new Date().getFullYear()}
+          AI 驱动的文本转 Mermaid 图表 Web 应用 &copy; {new Date().getFullYear()} Magi App
         </div>
       </footer>
 
